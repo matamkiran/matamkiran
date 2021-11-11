@@ -9,7 +9,7 @@ matamkiran/matamkiran is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 const thai = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [Angular,SpringBoot, Node, Storybook, Styled-Components, Spring, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
