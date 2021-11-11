@@ -32,4 +32,4 @@ const myself = {
 ![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=matamkiran&theme=synthwave “Kirans’ Top Languages Card”)
 
 
-<a href=”https://www.linkedin.com/in/matamkk/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href=”https://www.linkedin.com/in/matamkk/"> Follow me on![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
