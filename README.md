@@ -30,3 +30,6 @@ const myself = {
 ![Kirans’ GitHub stats](https://github-readme-stats.vercel.app/api?username=matamkiran&theme=synthwave&show_icons=true&count_private=true “Kirans’ GutHub Stats”)
 
 ![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=matamkiran&theme=synthwave “Kirans’ Top Languages Card”)
+
+
+<a href=”https://www.linkedin.com/in/matamkk/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
