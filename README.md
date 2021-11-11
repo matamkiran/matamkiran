@@ -9,14 +9,24 @@ matamkiran/matamkiran is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <code>
-const thai = {<br>
+  
+const myself = {
+  
   pronouns: "he" | "his", <br>
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],<br>
-  tools: [Angular,SpringBoot, Node, Storybook, Styled-Components, Spring, Docker],<br>
-  architecture: ["microservices", "event-driven", "design system pattern"],<br>
- challenge: "I am doing the #100DaysOfCode challenge focused on springboot ,python and Angular "<br>
-}<br>
+  
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  
+  tools: [Angular,SpringBoot, Node, Storybook, Styled-Components, Spring, Docker],
+  
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  
+  challenge: "I am doing the #100DaysOfCode challenge focused on springboot ,python and Angular "<br>
+  
+}
+  
 </code>
+
 
 ![Kirans’ GitHub stats](https://github-readme-stats.vercel.app/api?username=matamkiran&theme=synthwave&show_icons=true&count_private=true “Kirans’ GutHub Stats”)
 
+![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=matamkiran&theme=synthwave “Kirans’ Top Languages Card”)
