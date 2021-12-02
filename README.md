@@ -1,3 +1,7 @@
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/matamkiran/">
+  <img align="left" alt="Kiran's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 - 👋 Hi, I’m @matamkiran
 - 👀 I’m interested in Microservices
 - 🌱 I’m currently learning cloud
@@ -28,6 +32,8 @@ const myself = {
 }
   
 </code>
+![image](https://user-images.githubusercontent.com/3284194/144517081-2ffb1a3e-fddd-4303-93b7-33470be37959.png)
+
 
 **languages and tools:**  
 
@@ -43,7 +49,6 @@ const myself = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-[Kirans’ GitHub stats](https://github-readme-stats.vercel.app/api?username=matamkiran&theme=synthwave&show_icons=true&count_private=true “Kirans’ GutHub Stats”)
 
 [Top Langs] <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=matamkiran&theme=synthwave"> “Kirans’ Top Languages Card”</a>
 
