@@ -2,11 +2,12 @@
 <a href="https://www.linkedin.com/in/matamkiran/">
   <img align="left" alt="Kiran's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-- 👋 Hi, I’m @matamkiran
-- 👀 I’m interested in Microservices
-- 🌱 I’m currently learning cloud
-- 💞️ I’m looking to collaborate on cloud architects
-- 📫 How to reach me @matamkiran
+<br>
+- 👋 Hi, I’m @matamkiran <br>
+- 👀 I’m interested in Microservices <br>
+- 🌱 I’m currently learning cloud <br>
+- 💞️ I’m looking to collaborate on cloud architects<br>
+- 📫 How to reach me @matamkiran <br>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=matamkiran&left_color=green&right_color=red)
@@ -32,10 +33,9 @@ const myself = {
 }
   
 </code>
-![image](https://user-images.githubusercontent.com/3284194/144517081-2ffb1a3e-fddd-4303-93b7-33470be37959.png)
 
 
-**languages and tools:**  
+**languages and tools I use:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -50,7 +50,7 @@ const myself = {
 
 
 
-[Top Langs] <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=matamkiran&theme=synthwave"> “Kirans’ Top Languages Card”</a>
+“Kirans’ Top Languages Card” <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matamkiran&theme=synthwave"></a>
 
 
 <a href=”https://www.linkedin.com/in/matamkk/" Follow me on> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
@@ -59,4 +59,6 @@ const myself = {
                                               
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=matamkiran&show_icons=true&theme=gotham" alt="matamkiran" />                                             
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=matamkiran&show_icons=true&theme=gotham" alt="matamkiran" />                                             
+<img src="https://user-images.githubusercontent.com/3284194/144517081-2ffb1a3e-fddd-4303-93b7-33470be37959.png" align-right>
+   </p>
