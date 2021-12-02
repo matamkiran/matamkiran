@@ -9,7 +9,6 @@
 - 💞️ I’m looking to collaborate on cloud architects<br>
 - 📫 How to reach me @matamkiran <br>
 
-<br>
 ![](https://visitor-badge.glitch.me/badge?page_id=matamkiran&left_color=green&right_color=red)
 
 <!---
@@ -64,4 +63,4 @@ const myself = {
 <img src="https://user-images.githubusercontent.com/3284194/144517081-2ffb1a3e-fddd-4303-93b7-33470be37959.png" align-right>
    </p>
 
-<a href"https://www.youtube.com/channel/UCDqEEWuFCkl-KiY_NeHdB0A" >Youtube channel</a>
+<a href="https://www.youtube.com/channel/UCDqEEWuFCkl-KiY_NeHdB0A" >Youtube channel</a>
